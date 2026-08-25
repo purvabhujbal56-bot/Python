@@ -12,6 +12,7 @@ print("Uppercase:", s.upper())
 
 # 3. String slicing
 print("First 3 characters:", s[:3])
+print("First 4 characters:", s[1:3])
 
 # 4. Reverse string
 print("Reverse:", s[::-1])
