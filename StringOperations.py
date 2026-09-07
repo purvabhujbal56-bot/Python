@@ -9,6 +9,7 @@ print("Length:", len(s))
 
 # 2. Uppercase
 print("Uppercase:", s.upper())
+print("Uppercase:", s.lower())
 
 # 3. String slicing
 print("First 3 characters:", s[:3])
