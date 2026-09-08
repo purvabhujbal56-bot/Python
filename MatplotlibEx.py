@@ -8,6 +8,7 @@ y = [10, 20, 15, 25, 30]
 # Line Plot
 plt.figure()
 plt.plot(x, y)
+#plt.plot(x, y)
 plt.title("Line Plot")
 plt.show()
 
