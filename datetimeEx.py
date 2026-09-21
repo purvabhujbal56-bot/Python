@@ -11,7 +11,7 @@ print("2. Current Time:", now.strftime("%H:%M:%S"))
 
 # 3. Current Date and Time
 print("3. Current Date & Time:", now)
-#print("3. Current Date & Time:", now)
+
 
 # 4. Current Year
 print("4. Current Year:", today.year)
