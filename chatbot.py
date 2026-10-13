@@ -30,5 +30,5 @@ while True:
         break
 
     else:
-       // print("Chatbot: Sorry, I don't understand that.")
+       # print("Chatbot: Sorry, I don't understand that.")
         print("Chatbot: Sorry, I don't understand that.")
